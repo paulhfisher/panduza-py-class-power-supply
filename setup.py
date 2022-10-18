@@ -11,7 +11,7 @@ class CustomInstallCommand(install):
 
 # Setting up
 setup(
-    name="panduza_platform",
+    name="panduza_drv_power_supply",
     version=VERSION,
     author="Panduza Team",
     author_email="panduza.team@gmail.com",
