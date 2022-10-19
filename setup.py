@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 from setuptools.command.install import install
 
-VERSION = '0.0.1'
+VERSION = '1.0'
 DESCRIPTION = 'Panduza Python MetaDrivers for Power Supplies'
 LONG_DESCRIPTION = 'The Panduza '
 
