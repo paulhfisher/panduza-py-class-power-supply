@@ -11,7 +11,7 @@ class CustomInstallCommand(install):
 
 # Setting up
 setup(
-    name="panduza-py-class-power-supply",
+    name="panduza_class_power_supply",
     version=VERSION,
     author="Panduza Team",
     author_email="panduza.team@gmail.com",
